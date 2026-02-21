@@ -1,2 +1,2 @@
 # book-ai
-this repository about book ai for example i write a book with ai...
+writting a book with ai & mahan :)
